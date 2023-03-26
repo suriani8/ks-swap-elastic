@@ -1,4 +1,4 @@
-import { BigintIsh, MaxUint256, Percent, Price, CurrencyAmount, Token } from '@kyberswap/ks-sdk-core'
+import { BigintIsh, MaxUint256, Percent, Price, CurrencyAmount, Token } from '@kadafial/ks-sdk-core-kadafi'
 import JSBI from 'jsbi'
 import invariant from 'tiny-invariant'
 import { ZERO } from '../internalConstants'

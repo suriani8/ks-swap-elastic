@@ -7,7 +7,7 @@ import {
   CurrencyAmount,
   TradeType,
   Token
-} from '@kyberswap/ks-sdk-core'
+} from '@kadafial/ks-sdk-core-kadafi'
 import invariant from 'tiny-invariant'
 import { ONE, ZERO } from '../internalConstants'
 import { Pool } from './pool'

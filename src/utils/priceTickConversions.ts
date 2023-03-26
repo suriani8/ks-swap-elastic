@@ -1,4 +1,4 @@
-import { Price, Token } from '@kyberswap/ks-sdk-core'
+import { Price, Token } from '@kadafial/ks-sdk-core-kadafi'
 import JSBI from 'jsbi'
 import { Q192 } from '../internalConstants'
 import { encodeSqrtRatioX96 } from './encodeSqrtRatioX96'

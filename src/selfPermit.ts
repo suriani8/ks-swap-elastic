@@ -1,4 +1,4 @@
-import { BigintIsh, Token } from '@kyberswap/ks-sdk-core'
+import { BigintIsh, Token } from '@kadafial/ks-sdk-core-kadafi'
 import { Interface } from '@ethersproject/abi'
 import { abi } from '@uniswap/v3-periphery/artifacts/contracts/interfaces/ISelfPermit.sol/ISelfPermit.json'
 import { toHex } from './utils/calldata'

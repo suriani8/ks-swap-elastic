@@ -1,4 +1,4 @@
-import { MaxUint256 } from '@kyberswap/ks-sdk-core'
+import { MaxUint256 } from '@kadafial/ks-sdk-core-kadafi'
 import JSBI from 'jsbi'
 import { encodeSqrtRatioX96 } from './encodeSqrtRatioX96'
 import { maxLiquidityForAmounts } from './maxLiquidityForAmounts'

@@ -1,4 +1,4 @@
-import { BigintIsh } from '@kyberswap/ks-sdk-core'
+import { BigintIsh } from '@kadafial/ks-sdk-core-kadafi'
 import JSBI from 'jsbi'
 /**
  * Generated method parameters for executing a call.

@@ -1,3 +1,3 @@
-import { ChainId, validateAndParseAddress as validateAndParseAddressCore } from '@kyberswap/ks-sdk-core'
+import { ChainId, validateAndParseAddress as validateAndParseAddressCore } from '@kadafial/ks-sdk-core-kadafi'
 
 export const validateAndParseAddress = (address: string) => validateAndParseAddressCore(address, ChainId.MAINNET)

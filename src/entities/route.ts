@@ -1,6 +1,6 @@
 import invariant from 'tiny-invariant'
 
-import { Currency, Price, Token } from '@kyberswap/ks-sdk-core'
+import { Currency, Price, Token } from '@kadafial/ks-sdk-core-kadafi'
 import { Pool } from './pool'
 
 /**

@@ -1,4 +1,4 @@
-import { Percent, Token } from '@kyberswap/ks-sdk-core'
+import { Percent, Token } from '@kadafial/ks-sdk-core-kadafi'
 import JSBI from 'jsbi'
 import { FeeAmount, TICK_SPACINGS } from '../constants'
 import { encodeSqrtRatioX96 } from '../utils/encodeSqrtRatioX96'

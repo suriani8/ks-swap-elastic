@@ -1,4 +1,4 @@
-import { BigintIsh } from '@kyberswap/ks-sdk-core'
+import { BigintIsh } from '@kadafial/ks-sdk-core-kadafi'
 
 /**
  * Provides information about ticks
