@@ -1381,10 +1381,10 @@
     "@types/yargs" "^15.0.0"
     chalk "^3.0.0"
 
-"@kadafial/ks-sdk-core-kadafi@^1.0.3":
-  version "1.0.3"
-  resolved "https://registry.yarnpkg.com/@kadafial/ks-sdk-core-kadafi/-/ks-sdk-core-kadafi-1.0.3.tgz#b5740cfb9ece232766a13a99d26a924e71bd4b35"
-  integrity sha512-2WFrMEzmDfLLfZsgn03Cz4MAITviUN+KiqzAgWXl+fWJe/V5wiQTtbzVfZCwHL/4j5jL2yoxxnDsleefYPUEDQ==
+"@kadafial/ks-sdk-core-kadafi@^1.0.5":
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/@kadafial/ks-sdk-core-kadafi/-/ks-sdk-core-kadafi-1.0.5.tgz#989e290e1988454134d3099a5eebec4d41a48b40"
+  integrity sha512-SJjmqIGsIOoqwt81CwEldWzymrrsxImjX5tofTxTeEHpIZhwmz4aXXLlXR50ionusiQ+a2CoFGhzVYZEZWyRCQ==
   dependencies:
     "@ethersproject/address" "^5.0.2"
     "@solana/web3.js" "^1.66.2"
